@@ -1,0 +1,8 @@
+fastapi
+joblib
+pandas
+plotly
+python-multipart
+scikit-learn
+streamlit
+uvicorn[standard]
